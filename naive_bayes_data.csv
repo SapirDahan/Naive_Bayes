@@ -1,0 +1,16 @@
+Age,Income,Buys_Product
+young,low,No
+middle-aged,medium,Yes
+middle-aged,medium,No
+young,low,Yes
+young,low,No
+young,medium,Yes
+middle-aged,medium,No
+middle-aged,high,Yes
+middle-aged,high,No
+old,high,Yes
+young,medium,Yes
+middle-aged,medium,No
+middle-aged,medium,Yes
+middle-aged,medium,No
+middle-aged,high,Yes
